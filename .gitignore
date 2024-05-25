@@ -3,4 +3,5 @@
 demo.html
 demo.md
 
-
+# Prettier ignore file
+.prettierignore

@@ -49,9 +49,17 @@
     <td>
        <a href="https://www.linkedin.com/in/ishu-codes" target="_blank" rel="noreferrer" title="LinkedIn">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+          <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> -->
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="40" />
+        </picture>
+      </a>
+    </td>
+    <td>
+       <a href="mailto:kumarishu494@gmail.com" target="_blank" rel="noreferrer" title="LinkedIn">
+        <picture>
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" />
         </picture>
       </a>
     </td>

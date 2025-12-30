@@ -81,7 +81,8 @@
       <!-- <img src="https://karan-stats.vercel.app/api?username=ishu-codes&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="Github stats" /> -->
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+      <img src="https://karan-stats.vercel.app/api/top-langs?username=ishu-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" /> -->
     </td>
   </tr>
 </table>

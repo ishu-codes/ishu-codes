@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-  
+<!--
 ## Top Repositories
 <table align="center" border="0" role="presentation">
   <tr>
@@ -98,10 +98,11 @@
     </td>
     <td>
       <a href="https://github.com/ishu-codes/quillspace">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ishu-codes&repo=quillspace&theme=radical&hide_border=true&locale=en" />
+        <img height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/api/pin/?username=ishu-codes&repo=quillspace&theme=radical&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
 </table>
+-->
 
 

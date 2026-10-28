@@ -36,8 +36,9 @@
 ## Socials
 <table align="center" border="0" role="presentation">
   <tr>
+    <!-- X (Twitter) -->
     <td>
-      <a href="https://www.x.com/ishu_codes" target="_blank" rel="noreferrer" title="X (formly Twitter)">
+      <a href="https://www.x.com/ishu_codes" target="_blank" rel="noreferrer" title="X (formerly Twitter)">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
@@ -45,7 +46,17 @@
         </picture>
       </a>
     </td>
-    <!-- <td width="20"></td> -->
+    <!-- YouTube -->
+    <td>
+       <a href="https://www.youtube.com/@ishu-codes1" target="_blank" rel="noreferrer" title="YouTube">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+        </picture>
+      </a>
+    </td>
+    <!-- LinkedIn -->
     <td>
        <a href="https://www.linkedin.com/in/ishu-codes" target="_blank" rel="noreferrer" title="LinkedIn">
         <picture>
@@ -56,8 +67,9 @@
         </picture>
       </a>
     </td>
+    <!-- Email -->
     <td>
-       <a href="mailto:kumarishu494@gmail.com" target="_blank" rel="noreferrer" title="LinkedIn">
+       <a href="mailto:kumarishu494@gmail.com" target="_blank" rel="noreferrer" title="Email">
         <picture>
           <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" />
         </picture>
